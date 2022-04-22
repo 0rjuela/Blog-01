@@ -1,6 +1,6 @@
 body
 {
-    color: blueviolet;
+    color: rgb(41, 43, 42);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -9,5 +9,15 @@ body
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid cornsilk;
+    border: 1px solid rgb(54, 54, 53);
+}
+
+#cabecera
+{
+    background-color: rgb(230, 13, 212);
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 10;
+
 }
